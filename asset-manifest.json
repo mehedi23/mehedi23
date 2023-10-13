@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.78ac487c.chunk.css",
+    "main.js": "/portfolio/static/js/main.4ae694a7.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4ae694a7.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.22cbdea3.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.22cbdea3.js.map",
+    "static/js/2.53d21b0c.chunk.js": "/portfolio/static/js/2.53d21b0c.chunk.js",
+    "static/js/2.53d21b0c.chunk.js.map": "/portfolio/static/js/2.53d21b0c.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.78ac487c.chunk.css.map": "/portfolio/static/css/main.78ac487c.chunk.css.map",
+    "static/js/2.53d21b0c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.53d21b0c.chunk.js.LICENSE.txt",
+    "static/media/bg.a80b95a2.jpg": "/portfolio/static/media/bg.a80b95a2.jpg",
+    "static/media/about.css": "/portfolio/static/media/bg_2.2a247a96.svg",
+    "static/media/dealing.0664a8fa.png": "/portfolio/static/media/dealing.0664a8fa.png",
+    "static/media/favicon.4bba8a23.png": "/portfolio/static/media/favicon.4bba8a23.png",
+    "static/media/logo.64eae946.png": "/portfolio/static/media/logo.64eae946.png",
+    "static/media/me.1d42df48.svg": "/portfolio/static/media/me.1d42df48.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22cbdea3.js",
+    "static/js/2.53d21b0c.chunk.js",
+    "static/css/main.78ac487c.chunk.css",
+    "static/js/main.4ae694a7.chunk.js"
+  ]
+}
