@@ -1,0 +1,139 @@
+#services {
+    background-color: #080a1a;
+    padding: 70px 0;
+}
+
+.services-tite {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.67em;
+}
+
+.services-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.services-car {
+    width: 45%;
+    min-width: 45%;
+    max-width: 45%;
+    position: relative;
+    margin-top: 55px;
+}
+
+.services-car h1 {
+    font-weight: 500;
+    font-size: 28px;
+    color: #F6AE2D;
+    font-family: 'Montserrat', sans-serif;
+    z-index: 99;
+    position: relative;
+}
+
+.services-car p {
+    font-size: 14px;
+    line-height: 28px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.black-or-line {
+    display: flex;
+}
+
+.black-or-line span {
+    display: block;
+    height: 8px;
+}
+
+.black-or-line span:first-child {
+    width: 28px;
+    background-color: #fff;
+}
+
+.black-or-line span:last-child {
+    width: 65px;
+    background-color: #F6AE2D;
+    margin: 0 10px;
+}
+
+.services-car[types="ui/ux"] {
+    padding-left: 50px;
+}
+
+.services-car[types="ui/ux"] h1 {
+    position: absolute;
+    transform: rotate(-90deg);
+    left: -83px;
+    top: 73px;
+}
+
+.services-car[types="ui/ux"] .black-or-line {
+    margin-bottom: 30px;
+}
+
+.services-car[types="devlopment"] h1 {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.services-car[types="maintenance"] h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.services-car[types="maintenance"] .black-or-line {
+    direction: rtl;
+}
+
+@media screen and (max-width:720px) {
+    .services-car {
+        width: 100%;
+        min-width: 100%;
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .services-car p{
+        font-size: 20px;
+        line-height: 34px;
+    }
+
+    .services-car[types="ui/ux"] {
+        padding-left: 66px;
+    }
+
+    .services-car h1{
+        font-size: 34px;
+    }
+
+    .services-car[types="ui/ux"] h1{
+        top: 91px;
+    }
+}
+
+@media screen and (min-width: 1800px){
+    .services-car p {
+        font-size: 22px;
+        line-height: 38px;
+    }
+
+    .services-car h1 {
+        font-size: 44px;
+    }
+
+    .services-car[types="ui/ux"] h1 {
+        top: 117px;
+        left: -146px;
+    }
+}

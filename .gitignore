@@ -1,0 +1,44 @@
+# Dependency directories
+node_modules/
+
+# Build files
+build/
+dist/
+*.log
+*.tar.gz
+
+# Environment files
+.env.local
+.env.development
+.env.test
+.env.production
+.env*.local
+.env*.development
+.env*.test
+.env*.production
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+Thumbs.db
+
+# OS generated files
+ehthumbs.db
+
+# Miscellaneous
+npm-debug.log*
+yarn-error.log*
+pids
+logs
+*.pid
+*.seed
+*.pid.lock
+
+# Compiled binary addons
+node_modules/
