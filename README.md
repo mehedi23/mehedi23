@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### ✨ Skills ✨
+
+* JavaScript || React || React Native || Python || Django || Docker Compose
+* 🔭 Trying to learn more...
 
 <!--
 **mehedi23/mehedi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
