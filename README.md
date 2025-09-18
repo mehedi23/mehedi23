@@ -2,7 +2,7 @@
 
 👋 **Full-Stack Software Engineer | Django • React • React Native | 5+ Years of Experience**
 
-Passionate, self-taught Software Engineer with over 5 years of immersive experience in the tech industry. I specialize in building web and mobile applications. With a mathematics background, I’ve overcome challenges to successfully develop and deploy mobile and web applications, showcasing my dedication to continuous learning and leadership in software development. 🚀
+Passionate, self-taught software developer with over 5 years of immersive experience in the tech industry. I specialize in building web and mobile applications. With a mathematics background, I’ve overcome challenges to successfully develop and deploy mobile and web applications, showcasing my dedication to continuous learning and leadership in software development. 🚀
 
 ---
 
@@ -41,8 +41,7 @@ Passionate, self-taught Software Engineer with over 5 years of immersive experie
 
 ## 📫 Get in Touch
 
-- **Email**: [mehedihassansatu@gmail.com](mailto:mehedihassansatu@gmail.com)
 - **LinkedIn**: [Mehedi Hasan Satu](https://www.linkedin.com/in/mehedi-hasan-satu/)
-- **GitHub**: [mehedi23](https://github.com/mehedi23)
+- **X**: [Mehedi Hasan Satu](https://x.com/themehedidev)
 
 Let's collaborate to build innovative solutions that make an impact! 💻
