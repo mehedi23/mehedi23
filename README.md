@@ -32,7 +32,7 @@ Passionate, self-taught software developer with over 5 years of immersive experi
 ## 📚 Education
 
 - **Self-Taught Programmer**  
-  Overcame a non-CSE background through self-learning, online courses, and hands-on project experience.
+  Transitioned into programming via self-study, online courses, hands-on projects, and documentation.
 
 - **BSc in Mathematics**  
   National University of Bangladesh
